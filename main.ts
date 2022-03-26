@@ -24,5 +24,5 @@ basic.forever(function () {
     4
     ))
     serial.writeLine("" + x + "," + y + "," + a + "," + b)
-    basic.pause(1000)
+    basic.pause(500)
 })
